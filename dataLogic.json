@@ -1,0 +1,44 @@
+{
+    "types": 
+    {
+        "PIT": 
+        {
+            "image": "pit.png"
+        },
+        "ARCHER": 
+        {
+            "image": "archer.png"
+        },
+        "GRID": 
+        {
+            "image": "grid.png"
+        },
+        "STENCH":
+        {
+            "image": "stench.png"
+        },
+        "BREEZE":
+        {
+            "image": "breeze.png"
+        }
+        ,
+        "WUMPUS":
+        {
+            "image": "wumpus.png"
+        },
+        "GOLD":
+        {
+            "image": "gold.png"
+        },
+        "CLOSE":
+        {
+            "image": "close.png"
+        },
+        "RED":
+        {
+            "image": "red.png"
+        }
+    },
+    "rows": 10,
+    "cols": 10
+}

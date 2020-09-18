@@ -1,0 +1,28 @@
+{
+    "imgWumpusGame": [
+        {
+            "img1": "image/wall.png"
+        },
+        {
+            "img2": "image/breeze.gif"
+        },
+        {
+            "img3": "image/agent_dog.gif"
+        },
+        {
+            "img4": "image/monster.gif"
+        },
+        {
+            "img5": "image/floor.png"
+        },
+        {
+            "img6": "image/pit.png"
+        },
+        {
+            "img7": "image/gold.gif"
+        },
+        {
+            "img8": "image/stench.gif"
+        }
+    ]
+}
